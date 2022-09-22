@@ -1,5 +1,5 @@
 PKG_NAME := pypi-graphql_core
-URL = https://files.pythonhosted.org/packages/61/9e/798c1cfc5b03e98f068a793c2d2f1fd94f76ba50521f3812ff1a4e3c29d2/graphql-core-3.2.1.tar.gz
+URL = https://files.pythonhosted.org/packages/5d/dc/faab9e9c5356754be4bc97fd5cceeee7450960269b12e6a035b8c9b53f8b/graphql-core-3.2.2.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
