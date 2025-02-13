@@ -7,7 +7,7 @@
 #
 Name     : pypi-graphql_core
 Version  : 3.2.6
-Release  : 14
+Release  : 15
 URL      : https://files.pythonhosted.org/packages/c4/16/7574029da84834349b60ed71614d66ca3afe46e9bf9c7b9562102acb7d4f/graphql_core-3.2.6.tar.gz
 Source0  : https://files.pythonhosted.org/packages/c4/16/7574029da84834349b60ed71614d66ca3afe46e9bf9c7b9562102acb7d4f/graphql_core-3.2.6.tar.gz
 Summary  : GraphQL implementation for Python, a port of GraphQL.js, the JavaScript reference implementation for GraphQL.
